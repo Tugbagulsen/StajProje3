@@ -1,0 +1,28 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "proje3",
+            "cwd": "proje3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "proje3 (profile mode)",
+            "cwd": "proje3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "proje3 (release mode)",
+            "cwd": "proje3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
